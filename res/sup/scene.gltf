@@ -1,4 +1,4 @@
-{
+﻿{
   "accessors": [
     {
       "bufferView": 3,
@@ -5256,7 +5256,7 @@
   ],
   "images": [
     {
-      "uri": "textures/Polar_baseColor.png"
+      "uri": "Polar_baseColor.png"
     }
   ],
   "materials": [
