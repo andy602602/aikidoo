@@ -3993,13 +3993,13 @@
   ],
   "images": [
     {
-      "uri": "textures/Mario_baseColor.png"
+      "uri": "Mario_baseColor.png"
     },
     {
-      "uri": "textures/Mario_M_baseColor.png"
+      "uri": "Mario_M_baseColor.png"
     },
     {
-      "uri": "textures/mario_gloves_baseColor.png"
+      "uri": "mario_gloves_baseColor.png"
     }
   ],
   "materials": [
